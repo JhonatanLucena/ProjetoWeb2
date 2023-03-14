@@ -10,10 +10,10 @@
     </head>
     <body>
         <form action="" method="post">
-            <label for="nome">Nome: </label>
-            <input class="form-control" class="col2" type="text" name="nome" id="nomeid"> <br>
-            <label for="nota">Nota:</label>
-            <input type="number" name="nota" id="notaid"> <br>
+            <label for="idnome">Nome: </label>
+            <input class="form-control" class="col2" type="text" name="nome" id="idnome"> <br>
+            <label for="idnota">Nota:</label>
+            <input type="number" name="nota" id="idnota"> <br>
             <input class="btn btn-primary" type="submit" value="Salvar">
         </form>
     </body>
