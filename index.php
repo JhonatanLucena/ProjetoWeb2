@@ -1,0 +1,1 @@
+<a href="cadastroCurso.php">Cadastro de Curso</a>
